@@ -12,4 +12,4 @@
    1. If you're doing more changes than one, have separate Pull Requests.
    2. Match commit naming style (imperative? declarative? past? present?)
 8. Make a good description of what and **why**.
-9. Take part in the discussion afterwords. Be polite.
+9. Take part in the discussion afterwords. Be polite. Be patient.
