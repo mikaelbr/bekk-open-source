@@ -1,4 +1,4 @@
-# Open Source: Thoughts on types of Open Source
+# Open Source: Thoughts on Types of Open Source
 
 As I (@mikaelbr) see it, there are different motivations of getting started with Open Source development and different people get different output from doing Open Source work. Originally started as more of an idealistic movement, but now it's more of a way of communicating, organise, maintain, support, learn of, doing recruitment, and/or using as a development methodology.
 
@@ -14,9 +14,9 @@ In Open Source we often distinguish between three roles: Maintainers, Collaborat
 * https://opensource.guide/
 * https://github.com/Roshanjossey/first-contributions
 
-## How to get involved
+## How to Get Involved
 
-There are different types of Open Source-work, in my mind: "the active seeker", "the reactive scout", "the passive improver" and "the instigator".
+There are different types of Open Source-work, in my mind: "the active seeker", "the reactive scout", "the passive improver" and "the opportunistic instigator".
 
 ### The Active Seeker
 
@@ -27,7 +27,7 @@ Finding projects to contribute to:
 * http://up-for-grabs.net/#/
 * https://twitter.com/yourfirstpr
 
-### The reactive scout
+### The Reactive Scout
 
 The reactive scout, isn't actively seeking out projects to contribute to, but looks for every opportunity to do so. When opening a project or reading about a project, the reactive scout sees things as outdated examples, poor wording, code inconsistencies and improve them before moving on. Like a boy scout/girl scout developer, improving as you go.
 
@@ -35,7 +35,7 @@ Finding projects to contribute to:
 
 * Keep eyes open, and think about how projects can be improved.
 
-### The passive improver
+### The Passive Improver
 
 The passive improver is first and foremost an user of Open Source software. In daily work or on private projects, the passive improver is an expert consumer, having used projects. Sometimes the passive improver comes a cross a difficulty with a project they use. Like a difficult to understand documentation, an issue, or a potential feature that in their mind would improve the project. The passive improver then proposes that change to the maintainers and help out making the project better. In time, the passive improver, much like the active seeker, can become maintainer or collaborator of a project.
 
@@ -43,7 +43,7 @@ Finding projects to contribute to:
 
 * When one come across bugs or other issues with a project in your daily work, improve upstream.
 
-### The instigator
+### The Opportunistic Instigator
 
 The instigator identifies solutions they have as potentially nice-to-have for others and creates a open source project out of it. The instigator can also be interested in getting feedback and/or validation of ideas and use open source to get it.
 
