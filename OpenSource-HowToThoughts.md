@@ -18,7 +18,7 @@ In Open Source we often distinguish between three roles: Maintainers, Collaborat
 
 There are different types of Open Source-work, in my mind: "the active seeker", "the reactive scout", "the passive improver" and "the opportunistic instigator".
 
-### The Archetypes of Open Source
+### The Archetypes of Open Source Contributors
 
 #### The Active Seeker
 
