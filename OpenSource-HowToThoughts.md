@@ -18,7 +18,9 @@ In Open Source we often distinguish between three roles: Maintainers, Collaborat
 
 There are different types of Open Source-work, in my mind: "the active seeker", "the reactive scout", "the passive improver" and "the opportunistic instigator".
 
-### The Active Seeker
+### The Archetypes of Open Source
+
+#### The Active Seeker
 
 This is someone who is interested in getting involved in Open Source for any number of reasons, but doesn't have a clear idea where to start or what project to look at. The user seeks different sources to contribute to. The user should know how to technically do a pull request, and a good idea is to start small to get the ball rolling. When finding a project to contribute to, the user can take advantage of the familiarity of the code base to contribute more.
 
@@ -27,7 +29,7 @@ Finding projects to contribute to:
 * http://up-for-grabs.net/#/
 * https://twitter.com/yourfirstpr
 
-### The Reactive Scout
+#### The Reactive Scout
 
 The reactive scout, isn't actively seeking out projects to contribute to, but looks for every opportunity to do so. When opening a project or reading about a project, the reactive scout sees things as outdated examples, poor wording, code inconsistencies and improve them before moving on. Like a boy scout/girl scout developer, improving as you go.
 
@@ -35,7 +37,7 @@ Finding projects to contribute to:
 
 * Keep eyes open, and think about how projects can be improved.
 
-### The Passive Improver
+#### The Passive Improver
 
 The passive improver is first and foremost an user of Open Source software. In daily work or on private projects, the passive improver is an expert consumer, having used projects. Sometimes the passive improver comes a cross a difficulty with a project they use. Like a difficult to understand documentation, an issue, or a potential feature that in their mind would improve the project. The passive improver then proposes that change to the maintainers and help out making the project better. In time, the passive improver, much like the active seeker, can become maintainer or collaborator of a project.
 
@@ -43,7 +45,7 @@ Finding projects to contribute to:
 
 * When one come across bugs or other issues with a project in your daily work, improve upstream.
 
-### The Opportunistic Instigator
+#### The Opportunistic Instigator
 
 The instigator identifies solutions they have as potentially nice-to-have for others and creates a open source project out of it. The instigator can also be interested in getting feedback and/or validation of ideas and use open source to get it.
 
